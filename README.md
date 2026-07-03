@@ -281,23 +281,6 @@ Nakon završetka treninga grafikon se prikazuje u posebnom prozoru i čuva kao:
 loss_curve.png
 ```
 
----
-
-## Napomena o Deep Netts Visual AI Builder alatu
-
-Postojao je pokušaj da se arhitektura mreže i proces treniranja vizualizuju korišćenjem alata **Deep Netts Visual AI Builder**.
-
-Dostupni primer projekta za spam klasifikaciju napravljen je za stariju strukturu Deep Netts projekta i nije bio kompatibilan sa trenutnom verzijom Visual Workflow dodatka.
-
-Prilikom povezivanja skupa podataka, konfiguracije treniranja i arhitekture mreže pojavljivale su se greške povezane sa `null` referencama.
-
-Visual Workflow dodatak nije uspevao pravilno da pronađe training fajl, skup podataka i fajl sa arhitekturom mreže.
-
-Zbog ovog tehničkog problema sa kompatibilnošću, loss grafikon je generisan programski korišćenjem biblioteke **XChart**.
-
-Na ovaj način loss vrednosti se beleže direktno tokom treniranja stvarnog modela korišćenog u projektu, umesto korišćenja odvojenog eksperimenta u Visual AI Builder alatu.
-
----
 
 ## Struktura projekta
 
