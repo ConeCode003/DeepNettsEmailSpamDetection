@@ -318,8 +318,7 @@ CyberSecuritySpamDetectionDeepNetts/
 │
 ├── loss_curve.png
 ├── pom.xml
-├── README.md
-└── .gitignore
+├── README.m
 ```
 
 ---
