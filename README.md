@@ -230,6 +230,3 @@ After running the project, the application:
 
 ---
 
-## Author
-
-**Nemanja Orelj**
