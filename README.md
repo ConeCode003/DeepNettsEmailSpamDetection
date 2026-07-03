@@ -361,8 +361,7 @@ Pomoćna klasa zadužena je za:
 - NetBeans
 - XChart
 - Java Vector API incubator modul
-- Git
-- GitHub
+
 
 ---
 
