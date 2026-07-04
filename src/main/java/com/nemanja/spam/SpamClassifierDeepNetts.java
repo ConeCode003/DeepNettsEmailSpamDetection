@@ -189,7 +189,7 @@ public class SpamClassifierDeepNetts {
        EvaluationMetrics testMetrics = Evaluators.evaluateClassifier(neuralNet,testSet);
        System.out.println(testMetrics);
        
-       //Prikaz Lossa
+
        
     }
 }
